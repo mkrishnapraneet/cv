@@ -9,3 +9,7 @@ assi3/tracks
 assi3/datasets
 assi3/wandb
 assi3/runs
+assi4/cityscapes_data
+assi4/old
+assi4/U-Net.pth
+assi4/U-Net-skipless.pth

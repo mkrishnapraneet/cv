@@ -13,3 +13,5 @@ assi4/cityscapes_data
 assi4/old
 assi4/U-Net.pth
 assi4/U-Net-skipless.pth
+assi4/archive.zip
+assi4/imagenet-mini
